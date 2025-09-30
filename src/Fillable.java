@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Fillable {
+    public void fill (int area);
+
 }
